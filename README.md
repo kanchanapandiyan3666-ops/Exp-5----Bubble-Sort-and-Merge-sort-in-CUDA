@@ -1,4 +1,4 @@
-# Exp5 Bubble Sort and Merge sort in CUDA
+# Exp5: Bubble Sort and Merge sort in CUDA
 # REGISTER NO:212225230125
 # DATE:24/11/26
 **Objective:**
@@ -149,8 +149,8 @@ int main() {
 
 ## OUTPUT:
 
+<img width="890" height="373" alt="image" src="https://github.com/user-attachments/assets/df4db856-d31d-4765-96ee-6d63c3ddb0ce" />
 
-<img width="887" height="372" alt="image" src="https://github.com/user-attachments/assets/282e53ce-00e5-4409-9a84-3dc517cefee4" />
 
 
 
